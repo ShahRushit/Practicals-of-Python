@@ -1,0 +1,5 @@
+You Selected Train is       : 10205
+Your Journy dateis        : 23-11-2020
+Your Train class is       : First
+Your Journy starting From : Java
+Your Destination is       : Python

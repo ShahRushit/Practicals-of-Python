@@ -1,0 +1,9 @@
+Employee Number: 101
+Department Code: 111
+Employee Name:   Rushit Shah
+Basic Salary:    80000
+DA:		 10000
+HRA:		  6000
+Convenyance:      4000
+Total Salary:   100000
+

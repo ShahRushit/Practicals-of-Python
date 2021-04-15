@@ -1,0 +1,7 @@
+id,empname,gender, address,designation,salary
+1,Rushit,male,Ahmedabad,manager,50000
+2,Nishu,male,Ahmedabad,clerk,80000
+3,Shreya,female,Surat,leader,45000
+4,Chirag,male,Ahmedabad,analyst,30000
+5,Nidhi,female,Surat,designer,40000
+6,Himani,female,Porbandar,coder,34000

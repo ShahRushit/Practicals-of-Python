@@ -1,0 +1,4 @@
+ECODE ENAME    EMAIL ID                 Salary
+1001  MANTHAN  modimantha261@gmail.com  2600.00
+1002  YASH     yash123@gmail.com        8762.00
+1003  PREM     prem124@gmail.com        8900.00
